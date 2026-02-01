@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Hands-On Geospatial AI for Environmental Applications"
+  author: "Pratyush Tripathy"
+  chapters:
+    - index.qmd
+    - chapters/chapter1.qmd
+    - chapters/chapter2.qmd
+
+format:
+  html:
+    toc: true
+    toc-location: left
+    code-fold: true
+    output-dir: "_site" 
+
+execute:
+  echo: true
+  warning: false
+  error: false

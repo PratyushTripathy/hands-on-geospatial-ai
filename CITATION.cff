@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this book, please cite it as below."
+title: "Hands-On Geospatial AI for Environmental Applications"
+authors:
+  - family-names: Tripathy
+    given-names: Pratyush
+version: 0.1.0
+date-released: 2026-02-01
