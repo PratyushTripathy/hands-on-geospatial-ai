@@ -6,8 +6,8 @@ book:
   author: "Pratyush Tripathy"
   chapters:
     - index.qmd
-    - chapters/chapter1.qmd
-    - chapters/chapter2.qmd
+    - chapters/01-getting-started.qmd
+    - chapters/02-gis-basics.ipynb
 
 format:
   html:

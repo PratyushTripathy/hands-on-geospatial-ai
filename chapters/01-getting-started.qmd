@@ -1,0 +1,12 @@
+# Chapter 1: Getting Started
+
+This chapter introduces the Python environment and packages for geospatial AI.
+
+```{python}
+# Install or import packages
+import geopandas as gpd
+import rasterio
+import numpy as np
+
+print("Environment ready")
+```
