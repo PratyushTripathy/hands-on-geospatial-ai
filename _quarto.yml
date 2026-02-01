@@ -17,7 +17,7 @@ format:
     toc-numbered: false
     code-fold: false
     number-sections: false
-    output-dir: "docs" 
+    output-dir: docs
 
 execute:
   echo: true
