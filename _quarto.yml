@@ -6,6 +6,7 @@ book:
   author: "Pratyush Tripathy"
   chapters:
     - index.qmd
+    - intro.qmd
     - chapters/01-getting-started.qmd
     - chapters/02-gis-basics.ipynb
 
@@ -13,7 +14,9 @@ format:
   html:
     toc: true
     toc-location: left
-    code-fold: true
+    toc-numbered: false
+    code-fold: false
+    number-sections: false
     output-dir: "_site" 
 
 execute:

@@ -1,5 +1,6 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+I have been thinking of writing a live document for a long time now.
+The main idea for this book is not just to share resources with the 
+community but also for my personal benefit of documenting all the 
+awesome tools and techniques I discover, only to eventually lose track of them.
